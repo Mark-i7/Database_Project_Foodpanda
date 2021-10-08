@@ -246,7 +246,7 @@ into foods(food_id,rest_id,name,type,description,price)
 values(8,8,'Blue Cheese Wurstger','Fine Dining','Sausages are a meat product usually made from ground meat, often pork,
 beef, or poultry, along with salt, spices and other flavouring',45)
 into foods(food_id,rest_id,name,type,description,price)
-values(9,10,'Big Tasty Menu','Fast Food','Big Tasty® Fresh 100% British and irish beef, melty cheese made with Emmental, topped with tomato, lettuce,
+values(9,10,'Big Tasty Menu','Fast Food','Big TastyÂ® Fresh 100% British and irish beef, melty cheese made with Emmental, topped with tomato, lettuce,
 slivered onions and lashings of Big Tasty sauce, all on a sesame seed bun.',30)
 into foods(food_id,rest_id,name,type,description,price)
 values(10,15,'Maxi Big Mac Menu','Fast Food','Hamburger with fries and with extra Coca Cola',25)
